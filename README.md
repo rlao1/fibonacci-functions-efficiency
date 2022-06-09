@@ -10,3 +10,9 @@ Turn in a chart of the results, with time on the Y axis, and input on the X axis
 
 Part II.<br>
 Create documentation for your program.  Use the best practices that you have learned in this module.
+
+### Screenshot
+![screenshot](/screenshot.png)
+
+### Efficiency Chart
+![chart](/chart.png)
